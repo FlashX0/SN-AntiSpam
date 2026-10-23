@@ -1,0 +1,5 @@
+2026-10-23 18:06:48,238 WARNING discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-10-23 18:06:48,238 WARNING discord.client: davey is not installed, voice will NOT be supported
+2026-10-23 18:06:48,239 INFO discord.client: logging in using static token
+2026-10-23 18:06:49,929 INFO discord.gateway: Shard ID None has connected to Gateway (Session ID: 1217e5d15065b222bb1e9f42cb1f0df1).
+2026-10-23 18:06:51,950 INFO root: Connected as SN - AntiSpam#4859 (id=1563179317746335764)

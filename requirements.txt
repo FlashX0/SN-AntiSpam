@@ -1,0 +1,4 @@
+discord.py==2.7.1
+pytesseract==0.3.13
+Pillow==13.0.0
+python-dotenv==1.2.4
